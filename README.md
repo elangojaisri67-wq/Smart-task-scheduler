@@ -1,6 +1,6 @@
 # Smart Task Scheduler Using Data Structures and Algorithms
 
-A Python-based task management application that schedules tasks according to priority and deadlines using Data Structures and Algorithms.
+A C -based task management application that schedules tasks according to priority and deadlines using Data Structures and Algorithms.
 
 ## Features
 - Add, edit, and delete tasks
@@ -10,16 +10,10 @@ A Python-based task management application that schedules tasks according to pri
 - Task status management
 
 ## Tech Stack
-- Python
+- C
 - Streamlit
 - Data Structures and Algorithms
 
-## How to Run
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 ## DSA Concepts
 - Binary Heap
